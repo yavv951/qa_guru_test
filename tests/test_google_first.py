@@ -8,7 +8,7 @@ class TestFirstPage:
 
     def test_have_text_on_page(self, app):
         """
-        Тест кейс 1111
+        Тест кейс 1112
         1. открыть страницу https://google.com
         2. ввести текст "selene"
         3. проверить, что на странице имеется текст 'Selene - User-oriented Web UI browser tests in Python'
